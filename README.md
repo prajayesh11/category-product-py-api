@@ -16,7 +16,7 @@
  python3.6 -m venv venv
  source venv/bin/activate
  cd category-product-py-api
- pip3 installl -r requirements.txt
+ pip3 install -r requirements.txt
  python3 manage.py runserver
 ```
 
